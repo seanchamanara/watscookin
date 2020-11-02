@@ -1,0 +1,196 @@
+
+/* You can add global styles to this file, and also import other style files */
+
+
+
+
+
+body {
+
+	background-image: url("assets/img/woodBackgroundRepeatDarker.png");
+
+
+}
+
+.padding1rem {
+	padding: 1rem;
+	margin-left: 1rem;
+}
+
+
+.latoFont {
+	font-family: 'Lato', sans-serif;
+}
+
+
+
+.blackBGRounded {
+	background-color: rgba(0, 0, 0, 0.6);
+	padding: 2rem;
+	border-radius: 1rem;
+}
+
+.whiteText {
+	color: white;
+}
+
+h4.list-group-item-heading {
+	color: white;
+}
+
+
+
+#halfWhiteColor {
+	color: rgba(255, 255, 255, 0.8);
+}
+
+.blackText {
+	color: black;
+}
+
+.halfWhiteBG {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 1.5rem;
+	border: none;
+}
+
+
+
+.borderRadius2rem {
+		border-radius: 2rem;
+}
+
+
+.borderRadius {
+		border-radius: 0.5rem;
+}
+
+
+.grey {
+	color: grey;
+}
+
+.lightGrey {
+	color: lightgrey;
+}
+
+
+
+
+
+.balooFont {
+	margin-bottom: 1rem;
+	font-family: 'Baloo Tammudu', cursive;
+	font-size: 1.5rem;
+}
+
+
+.breeFont {
+	font-family: 'Bree Serif', serif;
+}
+.fredokaFont {
+	font-family: 'Fredoka One', cursive;
+}
+
+
+.concertOneFont {
+	font-family: 'Concert One', cursive;
+}
+
+
+.openSans {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.robotoFont {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+.topPadding2rem {
+	padding-top: 2rem;
+}
+
+.topPadding3rem {
+	padding-top: 3rem;
+}
+
+.topPadding4rem {
+	padding-top: 4rem;
+}
+
+.topMargin4rem {
+	margin-top: 4rem;
+}
+
+
+a.list-group-item {
+	background-color: rgba(255, 255, 255, 0.1);
+	color: white;
+}
+
+.list-group-item {
+	background-color: rgba(255, 255, 255, 0.1);
+
+	color: white;
+}
+
+
+
+.topMargin2rem {
+	margin-top: 2rem;
+}
+
+.halfWhiteBGBorder {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 1.5rem;
+	border-radius: 1rem;
+}
+
+
+
+
+
+
+.halfWhiteBGBlkBorder {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 1.5rem;
+	border-radius: 1rem;
+	border: solid 4px rgba(0, 0, 0, 0.7);
+}
+
+.thinBlackLine {
+	border: 1px solid black;
+}
+
+.blackBorderTop {
+	padding-top: 1rem;
+	border-top: 3px solid darkgrey;
+}
+
+.whiteBorder2px {
+	border: solid 2px white;
+}
+
+.whiteBorder1px {
+	border: solid 1px white;
+}
+
+
+@media (max-width: 320px) { 
+
+ }
+
+@media (max-width: 576px) {  }
+
+
+@media (max-width: 768px) { }
+
+
+@media (max-width: 992px) { }
+
+
+@media (max-width: 1200px) {  }
+
