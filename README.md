@@ -1,3 +1,12 @@
+This application helps a user generate a shopping list for common/most used recipes using Angular. The motivation was to make shopping for dinner easier with a clean simple layout.
+
+Incorporated user Authentication and Validation.
+Bootstrap for responsive design.
+
+
+
+
+
 # RecipeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
